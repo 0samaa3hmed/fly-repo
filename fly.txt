@@ -1,2 +1,3 @@
 New file added
 1st line in line
+2nd line in file
